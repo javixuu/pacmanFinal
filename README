@@ -27,4 +27,8 @@ Estructura del proyecto Práctica 1 Pacman
 │      
 └── fase4                # Archivos Fase 2
     ├── Keyboard         # modelos e instancias fase 2 training de Teclado
-    └── Tutorial1        # modelos e instancias fase 2 training de BasicAgent   
+    └── Tutorial1        # modelos e instancias fase 2 training de BasicAgent
+    ...       
+    ├── j48verybest.model 
+  	... 
+    
